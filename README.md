@@ -1,4 +1,4 @@
-# 🚀 PRISM
+# 🚀 PRISM 
 
 <div align="center">
   <img src="public/images/logo.png" alt="PRISM Logo" width="250" />
@@ -7,7 +7,7 @@
 
 ## 🚀 Overview
 
-PRISM is a knowledge-driven platform that leverages AI technology to provide personalized crypto asset advisory services. By combining high-quality knowledge, advanced AI, and a token-based incentive system, PRISM creates a trusted environment for crypto information and analysis.
+PRISM is a knowledge-driven platform that leverages AI technology to provide personalized crypto asset advisory services. By combining high-quality knowledge, advanced AI, and a token-based incentive system, PRISM creates a trusted environment for crypto information and analysis. 
 
 ## ✨ Features
 
@@ -393,26 +393,6 @@ npm run test:client
 - Cross-chain asset integration
 - Enterprise solutions
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 🔗 Links
-
-- Website: [https://www.prismn.xyz/](https://www.prismn.xyz/)
-- Twitter: [@PRI_SM_AI](https://x.com/PRI_SM_AI)
-- GitHub: [PRISM-AGENT/PRISM-PRM](https://github.com/PRISM-AGENT/PRISM-PRM)
-
 ## 🔌 Core Modules and Interactions
 
 PRISM is organized into several key functional modules that work together:
@@ -603,3 +583,23 @@ The PRISM deployment strategy employs modern DevOps practices for reliable relea
 - **Performance Metrics**: Track key performance indicators
 - **Error Tracking**: Aggregated logging and error reporting
 - **Usage Analytics**: Monitor user activity and system utilization 
+
+## 🔗 Links
+
+- Website: [https://www.prismn.xyz/](https://www.prismn.xyz/)
+- Twitter: [@PRI_SM_AI](https://x.com/PRI_SM_AI)
+- GitHub: [PRISM-AGENT/PRISM-PRM](https://github.com/PRISM-AGENT/PRISM-PRM)
+
+## 👥 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
