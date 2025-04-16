@@ -1,3 +1,8 @@
+/**
+ * 🏁 PRISM Frontend Entry Point
+ * Renders the React application and sets up providers
+ */
+
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';

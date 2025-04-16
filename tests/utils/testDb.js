@@ -1,5 +1,6 @@
 /**
- * Test database utility for connecting to and managing a MongoDB test database
+ * 🗄️ Test Database Utility
+ * Manages test database connections using MongoDB Memory Server
  */
 
 const mongoose = require('mongoose');

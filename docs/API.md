@@ -1,4 +1,4 @@
-# PRISM API Documentation
+# 🔌 PRISM API Documentation
 
 ## Introduction
 

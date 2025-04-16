@@ -1,4 +1,4 @@
-# PRISM Architecture
+# 🏗️ PRISM Architecture
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# PRISM
+# 🚀 PRISM
 
 <div align="center">
   <img src="public/images/logo.png" alt="PRISM Logo" width="250" />

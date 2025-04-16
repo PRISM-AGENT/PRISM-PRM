@@ -1,3 +1,8 @@
+/**
+ * 🌐 PRISM Application Main Component
+ * Defines the main app layout and routing
+ */
+
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 import { Box } from '@chakra-ui/react';

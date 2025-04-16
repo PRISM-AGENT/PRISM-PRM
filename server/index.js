@@ -1,3 +1,8 @@
+/**
+ * 🚀 PRISM Server Entry Point
+ * Boots up the API server and initializes all required services
+ */
+
 const express = require('express');
 const cors = require('cors');
 const mongoose = require('mongoose');

@@ -1,4 +1,4 @@
-# PRISM Project Recommendations
+# 💡 PRISM - Project Recommendations
 
 Based on the current codebase review and optimization, here are recommendations for further improvements to the PRISM project.
 

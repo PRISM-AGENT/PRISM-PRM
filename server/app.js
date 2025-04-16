@@ -1,6 +1,6 @@
 /**
- * PRISM API Server
- * Main application entry point
+ * 🖥️ PRISM Application Server
+ * Main Express application setup
  */
 
 const express = require('express');

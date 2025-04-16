@@ -1,4 +1,4 @@
-# PRISM Project Implementation Plan
+# 📊 PRISM - Project Implementation Plan
 
 ## Project Overview
 
