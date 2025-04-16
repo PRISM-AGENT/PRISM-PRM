@@ -50,7 +50,7 @@ export default function Footer() {
               <Link href={'https://x.com/PRI_SM_AI'} isExternal>
                 <FaTwitter />
               </Link>
-              <Link href={'https://github.com/PRISM-AGENT/PRISM'} isExternal>
+              <Link href={'https://github.com/PRISM-AGENT/PRISM-PRM'} isExternal>
                 <FaGithub />
               </Link>
             </Stack>

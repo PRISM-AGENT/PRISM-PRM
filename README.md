@@ -343,7 +343,7 @@ test('should create a new assistant', async () => {
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/PRISM-AGENT/PRISM.git
+   git clone https://github.com/PRISM-AGENT/PRISM-PRM.git
    cd PRISM
    ```
 
@@ -411,7 +411,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Website: [https://www.prismn.xyz/](https://www.prismn.xyz/)
 - Twitter: [@PRI_SM_AI](https://x.com/PRI_SM_AI)
-- GitHub: [PRISM-AGENT/PRISM](https://github.com/PRISM-AGENT/PRISM)
+- GitHub: [PRISM-AGENT/PRISM-PRM](https://github.com/PRISM-AGENT/PRISM-PRM)
 
 ## 🔌 Core Modules and Interactions
 

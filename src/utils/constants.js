@@ -56,7 +56,7 @@ export const STORAGE_KEYS = {
 // Social media links
 export const SOCIAL_LINKS = {
   TWITTER: 'https://x.com/PRI_SM_AI',
-  GITHUB: 'https://github.com/PRISM-AGENT/PRISM'
+  GITHUB: 'https://github.com/PRISM-AGENT/PRISM-PRM'
 };
 
 // Website info
