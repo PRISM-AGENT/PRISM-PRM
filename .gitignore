@@ -32,4 +32,14 @@ yarn-error.log*
 
 # OS specific
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Personal info protection - ignore any file containing Chinese characters
+*[郭]*
+*ers郭DesktopPRISMPRISM*
+*\u90ed*
+
+# Specific accidental file
+ers郭DesktopPRISMPRISM
+*Desktop*PRISM*
+"h -u origin main" 
