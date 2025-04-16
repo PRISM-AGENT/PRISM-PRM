@@ -3,6 +3,7 @@
 <div align="center">
   <img src="public/images/logo.png" alt="PRISM Logo" width="250" />
   <h1>Knowledge-Driven Crypto Asset Advisory Platform</h1>
+  <p>Version 1.01</p>
 </div>
 
 ## 🚀 Overview
