@@ -1,4 +1,4 @@
-# Contributing to PRISM
+# 🛠️ Contributing to PRISM
 
 Thank you for your interest in contributing to PRISM! This document provides guidelines and instructions for contributing to the project.
 

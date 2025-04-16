@@ -5,7 +5,7 @@
 
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import { Box } from '@chakra-ui/react';
+import { Box, ChakraProvider, Container } from '@chakra-ui/react';
 
 // Context Providers
 import { AuthProvider } from './context';
@@ -21,6 +21,7 @@ import { PrivateRoute } from './components/common';
 import HomePage from './pages/HomePage';
 import FeaturesPage from './pages/FeaturesPage';
 import AssistantPage from './pages/AssistantPage';
+// 👑 Main application pages
 import KnowledgePage from './pages/KnowledgePage';
 import TokenPage from './pages/TokenPage';
 import LoginPage from './pages/LoginPage';

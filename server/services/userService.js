@@ -1,6 +1,6 @@
 /**
- * User Service
- * Handles business logic for user operations
+ * 🔑 User Service
+ * Handles user-related business logic and data operations
  */
 
 const bcrypt = require('bcryptjs');

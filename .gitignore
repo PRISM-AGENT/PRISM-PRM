@@ -1,3 +1,5 @@
+# 🙈 Files and directories ignored by Git
+
 # Dependencies
 /node_modules
 /.pnp

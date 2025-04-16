@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
 
 /**
+ * 🤖 Assistant Model
+ * Defines AI assistants with specialized knowledge bases
+ */
+
+/**
  * Assistant schema for MongoDB
  */
 const AssistantSchema = new mongoose.Schema({

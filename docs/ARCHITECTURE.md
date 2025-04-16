@@ -127,4 +127,14 @@ As PRISM evolves, the following architectural enhancements are planned:
 1. **Event-driven architecture** - Implementing message queues for asynchronous operations
 2. **Microservices** - Breaking down monolithic structure into specialized services
 3. **Caching layer** - Adding Redis for performance optimization
-4. **API Gateway** - Implementing a gateway for routing and request management 
+4. **API Gateway** - Implementing a gateway for routing and request management
+
+## Data Flow
+
+The application follows a clean data flow pattern:
+
+1. Client sends request to server
+2. Request processed through middleware pipeline
+3. Controller handles the request
+4. ⚛️ Services encapsulate business logic 
+5. Models interact with the database 

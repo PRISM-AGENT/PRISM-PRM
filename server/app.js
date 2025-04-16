@@ -26,6 +26,15 @@ app.use(cors({
 // Logging middleware
 app.use(morgan(config.logFormat));
 
+// Set security headers
+app.use((req, res, next) => {
+  // 🔒 Security headers to protect against common vulnerabilities
+  res.setHeader('X-Content-Type-Options', 'nosniff');
+  res.setHeader('X-Frame-Options', 'DENY');
+  res.setHeader('X-XSS-Protection', '1; mode=block');
+  next();
+});
+
 // API routes
 app.use('/api', routes);
 

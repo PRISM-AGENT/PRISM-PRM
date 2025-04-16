@@ -1,5 +1,6 @@
 /**
- * Assistant Service
+ * 🤖 Assistant Service
+ * Handles AI assistant queries and knowledge integration
  * Data access layer for assistant-related operations
  */
 

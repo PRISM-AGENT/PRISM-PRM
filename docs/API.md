@@ -86,7 +86,7 @@ The API uses standard HTTP status codes:
 POST /auth/register
 ```
 
-Creates a new user account.
+⚡ Creates a new user account.
 
 **Request Body:**
 ```json

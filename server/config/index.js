@@ -1,5 +1,5 @@
 /**
- * Application Configuration
+ * ⚙️ Application Configuration
  * Centralizes all configuration settings
  */
 

@@ -1,6 +1,6 @@
 /**
- * Authentication Middleware
- * Verifies JWT tokens and adds user ID to request
+ * 🛡️ Authentication Middleware
+ * Handles JWT verification and user authentication
  */
 
 const jwt = require('jsonwebtoken');

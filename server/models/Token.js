@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
 
 /**
+ * 💰 Token Model
+ * Manages PRM token balances and transactions
+ */
+
+/**
  * Token schema for MongoDB
  * Represents PRM token transactions and balances
  */

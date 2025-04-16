@@ -1,6 +1,11 @@
 const mongoose = require('mongoose');
 
 /**
+ * 📚 Knowledge Model
+ * Stores validated information for the knowledge base
+ */
+
+/**
  * Knowledge schema for MongoDB
  * Represents a piece of knowledge in the system
  */

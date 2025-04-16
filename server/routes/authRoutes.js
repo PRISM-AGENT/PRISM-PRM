@@ -6,6 +6,7 @@
 const express = require('express');
 const { auth, validation } = require('../middleware');
 const authController = require('../controllers/authController');
+const { check } = require('express-validator');
 
 const router = express.Router();
 
@@ -23,12 +24,14 @@ router.post('/register',
 
 /**
  * @route POST /api/auth/login
- * @desc Login a user
+ * @desc 🔑 Authenticate user & get token
  * @access Public
  */
-router.post('/login',
-  validation.validateRequiredFields(['email', 'password']),
-  validation.validateEmail(),
+router.post('/login', 
+  [
+    check('email', 'Please include a valid email').isEmail(),
+    check('password', 'Password is required').exists()
+  ], 
   authController.login
 );
 

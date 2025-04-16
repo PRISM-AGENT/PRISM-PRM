@@ -286,18 +286,27 @@ const MobileNavItem = ({ label, children, href }) => {
   );
 };
 
+// Navigation items
 const NAV_ITEMS = [
   {
     label: 'Features',
     href: '/features',
   },
   {
-    label: 'How It Works',
-    href: '/how-it-works',
+    label: 'Assistant', // 🧭 AI-powered navigation
+    href: '/assistant',
   },
   {
-    label: 'Token',
+    label: 'Knowledge', // 📚 Knowledge base access
+    href: '/knowledge',
+  },
+  {
+    label: 'Token', // 💎 PRM Token ecosystem
     href: '/token',
+  },
+  {
+    label: 'How It Works',
+    href: '/how-it-works',
   },
   {
     label: 'Use Cases',

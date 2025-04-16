@@ -1,4 +1,4 @@
-# PRISM Code of Conduct
+# 🤝 PRISM Code of Conduct
 
 ## Our Pledge
 

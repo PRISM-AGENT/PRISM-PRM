@@ -31,7 +31,9 @@ export const API_ENDPOINTS = {
   ASSISTANT: {
     QUERY: '/assistant/query',
     CREATE: '/assistant/create',
-    LIST: '/assistant/list'
+    LIST: '/assistant/list',
+    UPDATE: '/assistant/update',
+    DELETE: '/assistant/delete'
   },
   AUTH: {
     REGISTER: '/auth/register',

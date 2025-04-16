@@ -11,10 +11,13 @@ const router = express.Router();
 
 /**
  * @route POST /api/assistant/query
- * @desc Send a query to an assistant
- * @access Public (for public assistants) or Private (for private assistants)
+ * @desc 🧠 Process a query with the assistant AI
+ * @access Private
  */
-router.post('/query', assistantController.queryAssistant);
+router.post('/query',
+  protect,
+  assistantController.processQuery
+);
 
 /**
  * @route POST /api/assistant/create

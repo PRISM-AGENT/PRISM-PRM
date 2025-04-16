@@ -2,6 +2,11 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 
 /**
+ * 👤 User Model
+ * Defines the schema for user data and authentication
+ */
+
+/**
  * User schema for MongoDB
  */
 const UserSchema = new mongoose.Schema({

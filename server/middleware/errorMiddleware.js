@@ -1,6 +1,6 @@
 /**
- * Error Handling Middleware
- * Centralizes error handling for the application
+ * ❌ Error Middleware
+ * Centralized error handling for the API
  */
 
 const { responseUtil } = require('../utils');

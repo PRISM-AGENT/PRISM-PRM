@@ -1,4 +1,4 @@
-# Changelog
+# 📅 Changelog
 
 All notable changes to PRISM will be documented in this file.
 

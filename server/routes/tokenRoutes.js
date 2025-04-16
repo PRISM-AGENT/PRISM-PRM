@@ -18,7 +18,7 @@ router.get('/', auth.protect, tokenController.getTokenInfo);
 
 /**
  * @route POST /api/tokens/airdrop
- * @desc Request token airdrop
+ * @desc 💰 Request token airdrop to specified wallet
  * @access Private
  */
 router.post('/airdrop', 

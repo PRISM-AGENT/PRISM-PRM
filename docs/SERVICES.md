@@ -71,7 +71,11 @@ const result = await tokenService.processAirdrop(
 
 ### Assistant Service
 
-The Assistant Service manages AI assistants, their creation, and query processing.
+The assistant service manages AI interactions and knowledge retrieval.
+
+### Key Functions
+
+- `queryAssistant(userId, query, assistantId)` - 🤖 Process user query using appropriate AI model
 
 **Key Responsibilities:**
 - Assistant creation and configuration

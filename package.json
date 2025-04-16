@@ -15,7 +15,7 @@
     "test:client": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "PRISM Team",
+  "author": "👥 PRISM Team",
   "license": "MIT",
   "dependencies": {
     "@chakra-ui/react": "^2.8.0",

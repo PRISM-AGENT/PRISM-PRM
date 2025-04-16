@@ -1,4 +1,4 @@
-# PRISM Version Information
+# 🏷️ PRISM Version Information
 
 ## Current Version
 PRISM V1.01

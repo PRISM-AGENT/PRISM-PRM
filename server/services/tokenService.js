@@ -1,6 +1,6 @@
 /**
- * Token Service
- * Handles business logic for token operations
+ * 💼 Token Service
+ * Manages token transactions and balances for PRISM users
  */
 
 const Token = require('../models/Token');
