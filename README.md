@@ -3,7 +3,30 @@
 <div align="center">
   <img src="public/images/logo.png" alt="PRISM Logo" width="250" />
   <h1>Knowledge-Driven Crypto Asset Advisory Platform</h1>
+  
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+  [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-green.svg)](https://nodejs.org/)
+  [![React Version](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green.svg)](https://www.mongodb.com/)
+  [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue.svg)](https://openai.com/)
+  [![PRM Token](https://img.shields.io/badge/PRM-Token-orange.svg)](https://www.prismn.xyz)
+  [![Build Status](https://img.shields.io/github/workflow/status/PRISM-AGENT/PRISM-PRM/build/main)](https://github.com/PRISM-AGENT/PRISM-PRM/actions)
+  [![Code Coverage](https://img.shields.io/codecov/c/github/PRISM-AGENT/PRISM-PRM)](https://codecov.io/gh/PRISM-AGENT/PRISM-PRM)
+  [![Dependencies](https://img.shields.io/david/PRISM-AGENT/PRISM-PRM)](https://david-dm.org/PRISM-AGENT/PRISM-PRM)
+  [![Contributors](https://img.shields.io/github/contributors/PRISM-AGENT/PRISM-PRM)](https://github.com/PRISM-AGENT/PRISM-PRM/graphs/contributors)
 </div>
+
+## 📋 Table of Contents
+
+- [✨ Features](#features)
+- [🏗️ Architecture](#architecture)
+- [🚀 Getting Started](#getting-started)
+- [🔧 Installation](#installation)
+- [⚙️ Configuration](#configuration)
+- [📚 Documentation](#documentation)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+- [�� Links](#links)
 
 ## 🚀 Overview
 
@@ -11,11 +34,25 @@ PRISM is a knowledge-driven platform that leverages AI technology to provide per
 
 ## ✨ Features
 
-- **🤖 AI Assistant**: Smart crypto asset advisory powered by contextualized knowledge
-- **📚 Knowledge Management**: Collaborative platform for verified crypto information
-- **💰 Token Rewards**: Incentivize high-quality contributions with PRM tokens
-- **🎯 Personalized Experience**: Custom advisory tuned to your investment style
-- **✅ Verified Information**: Transparent source attribution and community validation
+### 🤖 AI Assistant
+- 💡 Intelligent crypto asset analysis
+- 📊 Real-time market insights
+- 🎯 Personalized investment recommendations
+
+### 📚 Knowledge Management
+- 📖 Comprehensive crypto knowledge base
+- 🔍 Advanced search capabilities
+- 📝 Collaborative content creation
+
+### 💰 Token System
+- 🪙 PRM token integration
+- 🎁 Airdrop and reward mechanisms
+- 💎 Staking and governance features
+
+### 🔒 Security
+- 🔐 End-to-end encryption
+- 🛡️ Multi-factor authentication
+- 🔄 Regular security audits
 
 ## 🏗️ Architecture
 
@@ -586,19 +623,19 @@ The PRISM deployment strategy employs modern DevOps practices for reliable relea
 
 ## 🔗 Links
 
-- Website: [https://www.prismn.xyz/](https://www.prismn.xyz/)
-- Twitter: [@PRI_SM_AI](https://x.com/PRI_SM_AI)
-- GitHub: [PRISM-AGENT/PRISM-PRM](https://github.com/PRISM-AGENT/PRISM-PRM)
+- 🌐 [Website](https://www.prismn.xyz/)
+- 🐦 [Twitter](https://x.com/PRI_SM_AI)
+- 💻 [GitHub](https://github.com/PRISM-AGENT/PRISM-PRM)
 
 ## 👥 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+1. 🍴 Fork the repository
+2. 🌿 Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. 💾 Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
+5. 🔄 Open a Pull Request
 
 ## 📜 License
 
