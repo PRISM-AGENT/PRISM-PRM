@@ -5,28 +5,27 @@
   <h1>Knowledge-Driven Crypto Asset Advisory Platform</h1>
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-green.svg)](https://nodejs.org/)
-  [![React Version](https://img.shields.io/badge/react-18.2.0-blue.svg)](https://reactjs.org/)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green.svg)](https://www.mongodb.com/)
-  [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue.svg)](https://openai.com/)
-  [![PRM Token](https://img.shields.io/badge/PRM-Token-orange.svg)](https://www.prismn.xyz)
-  [![Build Status](https://img.shields.io/github/workflow/status/PRISM-AGENT/PRISM-PRM/build/main)](https://github.com/PRISM-AGENT/PRISM-PRM/actions)
-  [![Code Coverage](https://img.shields.io/codecov/c/github/PRISM-AGENT/PRISM-PRM)](https://codecov.io/gh/PRISM-AGENT/PRISM-PRM)
-  [![Dependencies](https://img.shields.io/david/PRISM-AGENT/PRISM-PRM)](https://david-dm.org/PRISM-AGENT/PRISM-PRM)
-  [![Contributors](https://img.shields.io/github/contributors/PRISM-AGENT/PRISM-PRM)](https://github.com/PRISM-AGENT/PRISM-PRM/graphs/contributors)
+  [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-green.svg)]()
+  [![React Version](https://img.shields.io/badge/react-18.2.0-blue.svg)]()
+  [![MongoDB](https://img.shields.io/badge/MongoDB-4.4-green.svg)]()
+  [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4-blue.svg)]()
+  [![PRM Token](https://img.shields.io/badge/PRM-Token-orange.svg)]()
+  [![Build Status](https://img.shields.io/github/workflow/status/PRISM-AGENT/PRISM-PRM/build/main)]()
+  [![Code Coverage](https://img.shields.io/codecov/c/github/PRISM-AGENT/PRISM-PRM)]()
+  [![Contributors](https://img.shields.io/github/contributors/PRISM-AGENT/PRISM-PRM)]()
 </div>
 
 ## 📋 Table of Contents
 
-- [✨ Features](#features)
-- [🏗️ Architecture](#architecture)
-- [🚀 Getting Started](#getting-started)
-- [🔧 Installation](#installation)
-- [⚙️ Configuration](#configuration)
-- [📚 Documentation](#documentation)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [�� Links](#links)
+- [✨ Features](#-features)
+- [🏗️ Architecture](#-architecture)
+- [🚀 Getting Started](#-getting-started)
+- [🔧 Installation](#-installation)
+- [⚙️ Configuration](#-configuration)
+- [📚 Documentation](#-documentation)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
+- [🔗 Links](#-links)
 
 ## 🚀 Overview
 
