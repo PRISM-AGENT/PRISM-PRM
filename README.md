@@ -623,7 +623,7 @@ The PRISM deployment strategy employs modern DevOps practices for reliable relea
 ## 🔗 Links
 
 - 🌐 [Website](https://www.prismn.xyz/)
-- 🐦 [Twitter](https://x.com/PRI_SM_AI)
+- 🐦 [Twitter](https://x.com/PRI_SM_AI_)
 - 💻 [GitHub](https://github.com/PRISM-AGENT/PRISM-PRM)
 
 ## 👥 Contributing
